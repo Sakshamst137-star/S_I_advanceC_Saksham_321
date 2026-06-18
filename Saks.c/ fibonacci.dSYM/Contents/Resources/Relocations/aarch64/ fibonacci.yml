@@ -1,5 +1,0 @@
----
-triple:          'arm64-apple-darwin'
-binary-path:     '/Users/sakshamtyagi/c program /Saks.c/ fibonacci'
-relocations:     []
-...
