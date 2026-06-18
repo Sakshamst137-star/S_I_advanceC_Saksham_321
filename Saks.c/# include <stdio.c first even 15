@@ -1,0 +1,25 @@
+# include <stdio.h>
+int main (  )
+{ 
+    int count = 0;
+    int num = 2 ;
+    while (count < 15){
+    num=+2;
+    count++;
+    }
+    printf("the first 15 even numbers are: %d\n");
+     return 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

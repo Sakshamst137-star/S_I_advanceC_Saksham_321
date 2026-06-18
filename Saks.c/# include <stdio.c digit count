@@ -1,0 +1,15 @@
+# include <stdio.h>
+ int main ( )
+ { int rem;
+   int count =0;
+   int number = 23452;
+  for(int temp = number; temp>0;temp = temp / 10   ){
+    rem = temp % 10;
+     count++;
+  }
+   printf("total digits are:%d\n", count);
+   
+   return 0 ;
+   
+   }
+     
